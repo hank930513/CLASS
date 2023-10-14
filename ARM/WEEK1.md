@@ -8,12 +8,14 @@
 ---
 
 EX:
+
+```
 Loop:   MOV P1 , A 
         CALL Delay ;delay some time`
         RL A
         JUMP lOOP
 delay:
-
+```
 
 ---
        
