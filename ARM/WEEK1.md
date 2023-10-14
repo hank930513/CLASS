@@ -18,7 +18,15 @@ delay:
 ```
 
 ---
-       
+| Column 1 | Column 2 | Column 3 | Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |          |          |          |
+| Text     | Text     | Text     |          |          |          |
+|          |          |          |          |          |          |
+| -------- | -------- | -------- |          |          |          |
+| Text     | Text     | Text     |         |          |          |
+|          |          |          |          |          |          |
 ### 定址模式:      
-#直接定址法MOV A,10H
+- # 直接定址法              
+  - MOV A,10H
+ - # 間接定址法
 ### **UNION%STRUCT 的不同!(9/14)**
